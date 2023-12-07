@@ -1,7 +1,6 @@
 🧬 I am a student of bioinformatics at the University of Birmingham, with a past in software products development in the telecommunications sector and an MSc in Computer Science.
 
 🧬 I am interested in applying computer science, statistics and machine learning to the misteries of life.
-### Hi there 👋
 
 <!--
 **fantauzzi/fantauzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
