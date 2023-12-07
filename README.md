@@ -1,4 +1,4 @@
-🧬 I am a student of Bioinformatics at the University of Birmingham, with a past in software products development in the telecommunications sector and an MSc in Computer Science.
+🧬 I am a student of Bioinformatics at the University of Birmingham, with a past in software products development in the telecommunications sector, and an MSc in Computer Science.
 
 🧬 I am interested in applying computer science, statistics and machine learning to the misteries of life.
 
